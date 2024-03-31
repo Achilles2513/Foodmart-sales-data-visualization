@@ -1,7 +1,6 @@
 # Foodmart-sales-data-visualization
 Sales Data Kanban 1997.pbix represents the visualization file 
-print('
-')
+
 data1.xlsx represents the file data extracted from the database
 foodmart 2000.mdb represents the database
 In the data1.xlsx, the sales data and corresponding tags are extracted from the access database, and the data is simply sliced and analyzed by pivot tables. The development tool and the offset method were used to create a pivot table that can select tags according to the button, and the data verification tool and the index+match method were used to create a pivot table that can select tags from a drop-down list.
